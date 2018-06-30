@@ -1,0 +1,98 @@
+body {
+
+    text-align: center;
+	background: #999;
+
+}
+
+p {
+	font: helvetica;
+	text-decoration: normal;
+	font-size40px;
+	
+}
+
+
+h1 {
+
+    font-family: Monoton;
+
+    font-size: 70px;
+
+    margin: 0.2em;
+	color: #fc3;
+
+}
+
+
+
+h2 {
+
+    margin: 1em 0 0.25em;
+	padding-bottom: 10px;
+	font: helvetica;
+	color: #333;
+	text-shadow: 0 0 1px #fff;
+
+}
+
+
+
+h2:first-of-type {
+
+    margin-top: 0.5em;
+
+}
+
+
+
+table,
+
+tr,
+
+td {
+
+    border: 1px solid black;
+
+}
+
+
+
+table {
+
+    border-collapse: collapse;
+
+    margin: 0 auto;
+	box-shadow: 0 5px 15px #ccc;
+
+}
+
+
+
+tr {
+
+    height: 20px;
+
+}
+
+
+
+td {
+
+    width: 20px;
+	border: solid thin #fc3;
+	cursor: pointer;
+
+}
+
+
+
+input[type=number] {
+
+    width: 6em;
+	border-radius:5px;
+	background: #000;
+	opacity: 0.3;
+	color: #fff;
+
+}
